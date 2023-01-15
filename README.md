@@ -40,7 +40,7 @@ The codebase splits the frontend and backend of the application into the 'client
     Install:
         - "npm i --save express cors" in the backend directory
         - "npm install body-parser --save" in the backend directory
-        - "npm i --save axios" in the client directory
+        - "npm i --save axios" in the frontend directory
         - Apologies if I missed anything. I'm not exactly sure what needs to be installed or not. Might have to install React.js too?
 
     Begin by running the backend by cd'ing into the "Backend" directory and entering 'node server.js' 

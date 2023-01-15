@@ -45,4 +45,4 @@ The codebase splits the frontend and backend of the application into the 'client
 
     Begin by running the backend by cd'ing into the "Backend" directory and entering 'node server.js' 
     
-    Afterwards, open another terminal window and run the frontend first by cd'ing into the 'client' directory and then 'npm start'
+    Afterwards, open another terminal window and run the frontend first by cd'ing into the 'Frontend' directory and then 'npm start'

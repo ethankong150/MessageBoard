@@ -1,0 +1,28 @@
+.rounded-rectangle {
+    width: 60%;
+    height: 30px;
+    background-color: #ffffff;
+    outline-style: auto;
+    outline-color: rgb(0, 147, 166);
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+.word {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 100%;
+  text-indent: 10px;
+  left: 100px;
+  letter-spacing: -0.05em;
+  line-height: 2;
+
+  color: #010101;
+}
+
+.time {
+  text-indent: 10px;
+  font-size: 10px;
+
+}
